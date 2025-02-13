@@ -32,7 +32,7 @@ Follow these steps to run the project locally:
 3. Open `index.html` in your browser and enjoy the experience! 🎬
 
 ## 📸 Preview
-![Netflix Clone Preview](https://via.placeholder.com/1200x600?text=Netflix+Clone+Preview)
+![Netflix Clone Preview]([https://via.placeholder.com/1200x600?text=Netflix+Clone+Preview](https://paste.pics/3bafa61c2aa4ed7f8f089cae1811e841))
 
 ## 🤝 Contribute & Collaborate
 Got ideas? Found a bug? PRs are always welcome! Fork the repo, make improvements, and submit a pull request. Let's build something amazing together! 🚀
